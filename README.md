@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## OUTPUT
+<img src="https://github.com/Graphictool/TaskManagement/assets/28779320/da8276c7-6fe5-4826-9284-f75bdf24bd44" width="400" height="867">
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/Graphictool/TaskManagement/assets/28779320/2270c0d0-89d4-4335-aa8d-bd6ebfeaec60" width="400" height="867">
+<img src="https://github.com/Graphictool/TaskManagement/assets/28779320/dbb88bb2-e651-4547-b97a-a73123e3e81f" width="400" height="867">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
